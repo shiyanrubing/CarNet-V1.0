@@ -17,14 +17,14 @@ pip install -r requirements.txt  # install
 Download datasets from [here](https://github.com/shiyanrubing/CarNet_databases)
 
 ## Train
-Configure the specific dataset in the cfg.py, and run crack_train.py in command line 
+Configure the specific dataset in the *cfg.py*, and run *crack_train.py* in command line 
 
 ```
 python crack_train.py
 ```
 
 ## Test
-Run test.py in command line
+Run *test.py* in command line
 
 ```
 python test.py
