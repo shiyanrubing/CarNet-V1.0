@@ -1,6 +1,7 @@
 # CarNet-V1.0
 This project contains the source code of our paper ["Rethinking Lightweight Convolutional Neural Networks for Efficient and High-quality Pavement Crack Detection"](https://arxiv.org/abs/2109.05707).
 In the paper, we propose CarNet which is a fast pavement crack detector which achieves excellent accuracy.
+We also propose three new pavement crack datasets, namely [Sun520, Rain365, and BJN260](https://github.com/shiyanrubing/CarNet_databases), to facilitate related research in the community.
 
 # Documnetation
 
