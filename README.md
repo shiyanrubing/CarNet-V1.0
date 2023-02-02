@@ -30,3 +30,23 @@ Run *test.py* in command line
 ```
 python test.py
 ```
+
+# Citation
+
+```
+@article{li2021fast,
+    title={Fast and Accurate Road Crack Detection Based on Adaptive Cost-Sensitive Loss Function},
+    author={Kai Li and Bo Wang and Yingjie Tian and Zhiquan Qi},
+    journal={IEEE Transactions on Cybernetics},
+    pages={1-12},
+    year={2021},
+    doi={10.1109/TCYB.2021.3103885}
+}
+
+@article{li2023fast,
+   title={{Rethinking Lightweight Convolutional Neural Networks for Efficient and High-quality Pavement Crack Detection}},
+   author={Kai Li, Jie Yang, Siwei Ma, Bo Wang, Shanshe Wang, Yingjie Tian, and Zhiquan Qi},
+   journal="arXiv preprint arXiv:2109.05707",
+   year={2023}
+  }
+  ```
