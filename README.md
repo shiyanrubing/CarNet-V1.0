@@ -9,7 +9,7 @@ We also propose three new pavement crack datasets, namely [Sun520, Rain365, and 
 Clone repo and install requirements.txt in a Python=3.6 environment, including PyTorch=1.6.
 
 ```
-git clone https://github.com/shiyanrubing/CarNet-V1.0  # clone
+git clone https://github.com/shiyanrubing/CarNet-V1.0
 cd CarNet-V1.0
 conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.2 -c pytorch
 pip install -r requirements.txt
