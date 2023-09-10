@@ -11,7 +11,8 @@ Clone repo and install requirements.txt in a Python=3.6 environment, including P
 ```
 git clone https://github.com/shiyanrubing/CarNet-V1.0  # clone
 cd CarNet-V1.0
-pip install -r requirements.txt  # install
+conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.2 -c pytorch
+pip install -r requirements.txt
 ```
 
 ## Datasets
